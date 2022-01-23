@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# 003_wds_react_pokemon
+https://www.youtube.com/watch?v=o3ZUc7zH8BE&amp;list=PLZlA0Gpn_vH_NT5zPVp18nGe_W9LqBDQK&amp;index=4
+>>>>>>> 00cca3cc036f89118948b10aa484344a9c31ce75
+
+
+
+//	22 01 2022 8:36 vo videu npm i axios ti vyhadzuje chyby ked instlujes
